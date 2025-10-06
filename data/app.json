@@ -1,0 +1,8 @@
+{
+    "id": "Phlo Demo",
+    "version": ".1",
+    "host": "host.ext",
+    "dashboard": "phlo",
+    "debug": true,
+    "build": {"libs": []}
+}

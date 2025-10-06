@@ -1,0 +1,20 @@
+prop title = 'Phlo Demo'
+
+route both GET => view(tag('h1', $this->title))
+
+app::route()
+
+<style>
+html {
+	background: black
+	display: flex
+	height: 100dvh
+}
+body {
+	color: white
+	font-family: sans-serif
+	margin: auto
+	overflow: hidden
+}
+h1: text-align: center
+</style>
